@@ -1,4 +1,4 @@
-# It's time to.. magic! 🪄
+# It's time for.. magic! 🪄
 
 🧙‍♂️ [SteamWizzard](https://steamwizzard.com) is a service designed to offer better Steam games recommendations for indie devs & players.
 
